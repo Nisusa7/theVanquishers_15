@@ -23,7 +23,7 @@ const responsive = {
 
 const Image = styled('img')({
     width: '100%',
-    height: '65%'
+    height: '85%'
 })
 
 const CarouselComponent = styled(Carousel)`
